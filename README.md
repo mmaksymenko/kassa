@@ -12,10 +12,10 @@
 
 # Запуск тестов:
 ```
-    % git clone git@github.com:mmaksymenko/kassa.git
-    % cd kassa
-    % composer install
-    % ./vendor/bin/phpunit
+% git clone git@github.com:mmaksymenko/kassa.git
+% cd kassa
+% composer install
+% ./vendor/bin/phpunit
 ```
 
 With :heart: from Maksym
